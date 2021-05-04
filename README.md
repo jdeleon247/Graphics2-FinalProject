@@ -9,6 +9,8 @@ Phong Lighting Shader
 # Controls:
 Left click and drag mouse to move camera
 
-WASD for world movement
+WASD for world movement, Shift to move faster
 
 Q and E for up and down movement
+
+Escape to unlock mouse from scene
