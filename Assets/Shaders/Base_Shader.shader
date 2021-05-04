@@ -1,4 +1,5 @@
-﻿Shader "Custom/BaseShader"
+﻿//Source: https://www.youtube.com/watch?v=bR8DHcj6Htg&list=PLS6sInD7ThM3giqACaYCBtIhkMNucqmna
+Shader "Custom/BaseShader"
 {
 	Properties 
 	{
