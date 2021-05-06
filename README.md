@@ -5,6 +5,7 @@ Edge Outline Shader
 
 Phong Lighting Shader
 
+Dissolve Shader
 
 # Controls:
 Left click and drag mouse to move camera
